@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rehab Ahmed
 
-<!--
-**rehabalmohalil-wq/rehabalmohalil-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Technology Student
 
-Here are some ideas to get you started:
+I'm an IT student at Al-Jazeera University, expected to graduate in 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in:
+- Web Development
+- Software Development
+- Database Management
+- AI-Assisted Development
+
+### Technologies I'm Learning
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Git & GitHub
+
+### Goals
+Building practical projects, improving my programming skills, and developing real-world software solutions.
